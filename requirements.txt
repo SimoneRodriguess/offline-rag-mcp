@@ -1,0 +1,6 @@
+chromadb
+mcp[cli]
+langchain-text-splitters
+pypdf
+requests
+ 
